@@ -2,7 +2,7 @@
 
 |章|タイトル|
 |---|---|
-|1.2節|[階乗の計算プログラム](https://colab.research.google.com/github.com/makaishi2/data_analysis_book_info/raw/main/notebooks/code_01_02.ipynb)|
+|1.2節|[階乗計算](https://colab.research.google.com/github.com/makaishi2/data_analysis_book_info/raw/main/notebooks/ch01_02.ipynb)|
 |1.3節|[変数とデータ型]()|
 |1.4節|[演算]()|
 |1.5節|[コンテナ]()|
