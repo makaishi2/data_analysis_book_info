@@ -13,7 +13,13 @@
 ## 実習Notebookリンク
 　本書の実習コードは、Google Colabで動かすことを前提に、すべてGithub(当サポートサイト)で公開しています。  
 
-[実習Notebook一覧](refs/notebooks.md)
+
+
+* [1章　Python入門](refs/notebooks.md#CH01)
+* [2章　データ分析ライブラリ入門編](refs/notebooks.md#CH02)
+* [3章　データ分析ライブラリ中級編・4章　データ分析実践編](refs/notebooks.md#CH03_CH04)
+
+
 
 <!---
 [実習Notebookの動かし方](refs/how-to-run.md)
