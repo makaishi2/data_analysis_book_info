@@ -30,8 +30,8 @@
 ## Amazonへのリンク
 
 [単行本](https://www.amazon.co.jp/dp/4296201123) 
+
 <!---
- 
 [Kindle](https://www.amazon.co.jp/dp/B09G622WB6/)  
 -->  
 
@@ -73,6 +73,7 @@
 
 <br>
 
+<!---
 * **演習問題はコメント文のヒントで解きやすい形に**
 
 演習問題では、解答セルに実装に関するヒントが記載されています。  
@@ -81,6 +82,7 @@
 <div align="left">
 <img src="images/fig1-3.png" width="500">
 </div>
+-->  
 
 * **NumPyのインデックス参照は図を使って丁寧に解説**
 
@@ -94,6 +96,17 @@ NumPyのインデックス参照は初心者にとってわかりにくい点の
 <div align="left">
 <img src="images/fig2-2.png" width="300">
 </div>
+
+ <br>
+
+* **ブロードキャスト機能も図で説明**
+
+NumPyの特徴的な機能であるブロードキャスト機能も、その動作メカニズムを図で解説しています。
+
+<div align="left">
+<img src="images/fig2-3.png" width="300">
+</div>
+
 
 
 
