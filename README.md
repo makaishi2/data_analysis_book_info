@@ -15,7 +15,7 @@
 
 
 
-* [1章　Python入門](refs/notebooks.md#CH01)
+* [1章　Pythonプログラミング入門](refs/notebooks.md#CH01)
 * [2章　データ分析ライブラリ入門編](refs/notebooks.md#CH02)
 * [3章　データ分析ライブラリ中級編・4章　データ分析実践編](refs/notebooks.md#CH03_CH04)
 
