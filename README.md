@@ -64,7 +64,7 @@
 1章のPythonプログラミング入門では、重要な文法は囲み記事で一つ一つの要素の意味を丁寧に解説します。
 
 <div align="left">
-<img src="images/fig1-1.png" width="400">
+<img src="images/fig1-1.png" width="350">
 </div>
 
 <div align="left">
@@ -104,7 +104,7 @@ NumPyのインデックス参照は初心者にとってわかりにくい点の
 NumPyの特徴的な機能であるブロードキャスト機能も、その動作メカニズムを図で解説しています。
 
 <div align="left">
-<img src="images/fig2-3.png" width="300">
+<img src="images/fig2-3.png" width="400">
 </div>
 
 
