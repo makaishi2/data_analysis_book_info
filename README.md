@@ -68,9 +68,18 @@
 </div>
 
 <div align="left">
-<img src="images/fig1-2.png" width="500">
+<img src="images/fig1-2.png" width="400">
 </div>
 
+
+ * **演習問題はコメント文のヒントで解きやすい形に**
+
+演習問題では、解答セルに実装に関するヒントが記載されています。  
+ヒントに沿った形でコードを記述していくと、解答にたどりつけるようになっています。
+
+<div align="left">
+<img src="images/fig1-3.png" width="400">
+</div>
 
 
 
