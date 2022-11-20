@@ -1,9 +1,7 @@
 # 書籍「最短コースでわかるPythonデータ分析」サポートサイト
-<!---
 <div align="left">
 <img src="images/hyoshi.png" width="200">
 </div>
--->  
 
 
 　当サイトは、書籍「最短コースでわかるPythonデータ分析」のサポートサイトです。  
