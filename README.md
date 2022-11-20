@@ -82,6 +82,19 @@
 <img src="images/fig1-3.png" width="600">
 </div>
 
+* **NumPyのインデックス参照は図を使って丁寧に解説**
+
+NumPyのインデックス参照は初心者にとってわかりにくい点の一つです。 
+この点も、図を使って丁寧に解説しています。
+
+<div align="left">
+<img src="images/fig2-1.png" width="400">
+</div>
+
+<div align="left">
+<img src="images/fig2-2.png" width="400">
+</div>
+
 
 
 ## 主な想定読者
