@@ -64,11 +64,11 @@
 1章のPythonプログラミング入門では、重要な文法は囲み記事で一つ一つの要素の意味を丁寧に解説します。
 
 <div align="left">
-<img src="images/fig1-1.png" width="500">
+<img src="images/fig1-1.png" width="400">
 </div>
 
 <div align="left">
-<img src="images/fig1-2.png" width="400">
+<img src="images/fig1-2.png" width="300">
 </div>
 
 <br>
@@ -79,7 +79,7 @@
 ヒントに沿った形でコードを記述していくと、解答にたどりつけるようになっています。
 
 <div align="left">
-<img src="images/fig1-3.png" width="600">
+<img src="images/fig1-3.png" width="500">
 </div>
 
 * **NumPyのインデックス参照は図を使って丁寧に解説**
@@ -88,11 +88,11 @@ NumPyのインデックス参照は初心者にとってわかりにくい点の
 この点も、図を使って丁寧に解説しています。
 
 <div align="left">
-<img src="images/fig2-1.png" width="400">
+<img src="images/fig2-1.png" width="300">
 </div>
 
 <div align="left">
-<img src="images/fig2-2.png" width="400">
+<img src="images/fig2-2.png" width="300">
 </div>
 
 
