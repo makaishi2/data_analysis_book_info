@@ -61,11 +61,11 @@
 
 * 重要な文法は囲み記事で解説
 <div align="left">
-<img src="images/fig1-1.png" width="200">
+<img src="images/fig1-1.png" width="500">
 </div>
 
 <div align="left">
-<img src="images/fig1-2.png" width="200">
+<img src="images/fig1-2.png" width="500">
 </div>
 
 
