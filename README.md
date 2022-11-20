@@ -78,7 +78,7 @@
 ヒントに沿った形でコードを記述していくと、解答にたどりつけるようになっています。
 
 <div align="left">
-<img src="images/fig1-3.png" width="400">
+<img src="images/fig1-3.png" width="600">
 </div>
 
 
