@@ -60,6 +60,8 @@
 以下に、本書の特徴的な図表の例を掲載しておきます。
 
 * 重要な文法は囲み記事で解説
+1章のPythonプログラミング入門では、重要な文法は囲み記事で一つ一つの要素の意味を丁寧に解説します。
+
 <div align="left">
 <img src="images/fig1-1.png" width="500">
 </div>
@@ -67,6 +69,7 @@
 <div align="left">
 <img src="images/fig1-2.png" width="500">
 </div>
+
 
 
 
