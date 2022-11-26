@@ -70,7 +70,7 @@
 
 
 <div align="left">
-<img src="images/chap4-1.png" width="300">
+<img src="images/chap4-1.png" width="400">
 </div>
 
 
