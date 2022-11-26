@@ -70,7 +70,17 @@
 
 
 <div align="left">
-<img src="images/chap4-1.png" width="400">
+<img src="images/chap4-1.png" width="500">
+</div>
+
+
+<br>
+
+* **演習問題はヒント付き(全体)**
+　演習問題は、コメントにヒントがついていて、その節で学習したことが理解できていればギリギリ対応できる形にレベル設定されています。  
+
+<div align="left">
+<img src="images/all-1.png" width="500">
 </div>
 
 
