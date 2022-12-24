@@ -203,15 +203,21 @@ NumPyのインデックス参照は初心者にとってわかりにくい点の
 |---|---|---|
 |twitter|[@makaishi2](https://twitter.com/makaishi2)|著者のツイッターアカウント。書籍に関連した情報発信とretweetが中心です。|
 |IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|IBM勤務時代、会社のブログにインタビュー記事が紹介されています。|
+|異業種データサイエンス研究会招待講演資料|[AI・DS領域を学習したい方に向けて](https://speakerdeck.com/makaishi2/aidsling-yu-woxue-xi-sitaifang-nixiang-kete)|2022-12-03に異業種データサイエンス研究会主催で行われたイベントでの招講演資料です。|
+|日経BP XTECH|[はじめに：『最短コースでわかる Pythonプログラミングとデータ分析』](https://bookplus.nikkei.com/atcl/column/032900009/121200245/?n_cid=nbpbkp_twed)|日経BP様のサイトの本書の「はじめに」の全文を掲載いただいています。
+|日経BPXTECH|[電話営業の顧客データをPythonで分析～データ分析最短コース](https://xtech.nikkei.com/atcl/nxt/column/18/01687/00283/)|日経BP様のサイトに本書の3.4節の内容を掲載いただいています。|
 
 
 
 ### 外部リンク
 
-<!---
 
 |ソース  |タイトルとリンク  |補足|
 |---|---|---|
+|からあげ様ブログ|[「Pythonプログラミングとデータ分析」レビュー](https://karaage.hatenadiary.jp/entry/2022/12/19/073000)|有名なブロガーであるからあげ様からいただいた書籍レビューです|
+
+<!---
+
 |Amazon|[Amazonレビュー](https://www.amazon.co.jp/product-reviews/4296110322)||
 |Honto|[Honto](https://honto.jp/netstore/pd-book_31207319.html)||
 |読書メーター|[読書メーター](https://bookmeter.com/books/18544605)||
