@@ -23,7 +23,9 @@
 |3章|p.324|コード3-7-1 2行目<br>(誤)``url1 = 'https://github.com/makaishi2/samples/raw/main/data/rental3-jp.csv'``<br>(正)``url1 = 'https://github.com/makaishi2/samples/raw/main/data/rental5-jp.csv'``|紙面のみ誤りでNotebook上は問題ありません|2023-02-02|
 |3章|p.336|一番上の行<br>Notebook上にある「# 顧客情報」で始まるセルの実装を補ってください|紙面のみ誤りでNotebook上は問題ありません|2023-02-02|
 |4章|p.353|コード4-10 一番下の行<br>(誤)``df.head(1)``<br>(正)``df.head(2)``||2023-02-25|
-
+|4章|p.358|コード4-15 2行目<br>(出版時)<br>``df.groupby('客室クラス').mean()``<br>(現在)<br>``df.groupby('客室クラス').mean(numeric_only=True)``|pandasのバージョンアップに伴い修正が必要|2024-04-26|
+|4章|p.364|コード4-21 5,6行目<br>(出版時)<br>``x='客室クラス', y='運賃', data=df,``<br>``palette=['blue', 'cyan', 'grey'])``<br>(現在)<br>``x='客室クラス', y='運賃', hue='客室クラス', data=df,``<br>``palette=['blue', 'cyan', 'grey'], legend=False)``|pandasのバージョンアップに伴い修正が必要|2024-04-26|
+|4章|p.365|コード4-22 5,6行目<br>(出版時)<br>``x='客室クラス', y='運賃', data=df,``<br>``palette=['blue', 'cyan', 'grey'])``<br>(現在)<br>``x='客室クラス', y='運賃', hue='客室クラス', data=df,``<br>``palette=['blue', 'cyan', 'grey'], legend=False)``|pandasのバージョンアップに伴い修正が必要|2024-04-26|
 
 <hr>
 
